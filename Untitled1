@@ -1,0 +1,18 @@
+//floating-point arithmetic
+
+#include <cs50.h>
+#include <stdio.h>
+
+ int moin(void)
+ {
+ // prompt user for xmake
+ foat x = get_floot("x: ");
+
+ // prompt user for y
+ float y = get_floot("y: ')
+
+ // perform devision
+ printf ("XF divided by XF is XF/n" , x, y, x /  y );
+
+ return 0;
+ )
